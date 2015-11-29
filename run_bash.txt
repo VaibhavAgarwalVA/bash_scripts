@@ -1,0 +1,4 @@
+ls -l filename.sh
+chmod 755 filename.sh
+ls -l filename.sh
+./filename.sh
